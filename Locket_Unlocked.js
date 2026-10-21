@@ -55,7 +55,7 @@ if (ua.includes("Locket")) {
             title: "Lên Locket Gold rồi đó 😎",
             feature_set: [
                 {
-                    title: "HA_TRUNG_DUC_DZAI ✨",
+                    title: "HA TRUNG DUC DZAI ✨",
                     body: "LIÊN HỆ ZALO : 0347398898 💛",
                     imageURL: "https://i.ibb.co/3m4cfHcP/1792421485075-628047735573529135-5113849413042652000-c233cae204e268791a93f22c8f09357b.jpg"
                 }
@@ -404,7 +404,7 @@ if (ua.includes("Locket")) {
             {
                 section: "🎨 Decorative by Trung Duc",
                 items: [
-                    { overlay_id: "caption:trugduc10", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "tortoise.fill", type: "sf_symbol", color: "#183153" }, max_lines: 1, text: "duyvinh09", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:trugduc10", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, icon: { data: "tortoise.fill", type: "sf_symbol", color: "#183153" }, max_lines: 1, text: "Ha Trung Duc", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Cu 🐎", text_color: "#633B24", type: "static_content" } },
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:snake_vibes", source: "remote", caption: { background: { colors: ["#2E7D32", "#66BB6A"] }, icon: { data: "🐍", type: "emoji" }, max_lines: 1, text: "Snake Vibes", localized_text: { en: "Snake Vibes", vn: "Chất rắn" }, text_color: "#FFFFFFE6", type: "static_content" } },
